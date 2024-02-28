@@ -1,0 +1,169 @@
+
+.nav-image{
+    height: 200px;
+    width:300px;
+    border-radius: 50%;
+}
+.button{
+    display: flex;
+}
+.bg-background{
+    width: 1900px;
+    background-image: url(./images/bg\ -2.avif);
+    background-size: cover;
+    height: 900px;
+}
+.bg-heading{
+    color: rgb(6, 2, 2);
+    font-family: "roboto";
+    font-size: 70px;
+    text-align: center;
+    padding-top: 400px;
+    font-weight: bold;
+}
+.bg-paragraph{
+    color: rgb(14, 1, 1);
+    font-family: "roboto";
+    font-size: 60px;
+    text-align: center;
+    padding-top: 20px;
+    font-weight: bold;
+}
+.kk{
+    margin-left: 1150px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.buttonone{
+    text-align: center;
+    padding: 20px;
+    margin-left: 800px;
+    margin-top: 40px;
+    font-size: 20px;
+    background-color: rgb(78, 78, 247);
+    border-radius: 10px;
+    color: white;
+    border: 2px solid rgb(22, 6, 6);
+}
+.buttontwo{
+    text-align: center;
+    padding: 20px;
+    margin-left: 50px;
+    margin-top: 40px;
+    font-size: 20px;
+    background-color: transparent;
+    border-radius: 10px;
+    color: rgb(18, 4, 4);
+    border: 2px solid rgb(16, 7, 7);
+    color: black;
+}
+.menu-heading{
+    margin-top: 20px;
+    margin-left: 30px;
+    text-decoration: underline;
+    color: rgb(50, 175, 4);
+   
+}
+.menu-heading:hover{
+    color: blue;
+
+}
+.boxes{
+    display: flex;
+    gap:30px;
+}
+.box{
+    height: 730px;
+    width: 550px;
+    background-color: rgb(211, 230, 230);
+    border-radius: 10px;
+    margin:30px;
+    padding: 30px;
+    padding-left: 75px;
+}
+.images{
+    display: block;
+    height: 500px;
+    width: 400px;
+    border-radius: 10px;
+}
+.img-heading{
+    padding: 20px;
+    font-size: 25px;
+    margin-left: 1px;
+    font-size: 38px;
+}
+.img-paragraph{
+    margin-left: 20px;
+    font-size: 30px;
+}
+.choose-boxes{
+    display: flex;
+    gap:20px;
+}
+.choose-box{
+    height: 450px;
+    width: 600px;
+    background-color: rgb(178, 171, 217);
+    border-radius: 10px;
+    margin:30px;
+    padding-top: 10px;
+}
+.photo{
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+}
+.photo-heading{
+    text-align: center;
+}
+.photo-paragraph{
+    padding:25px;
+    text-align: center;
+}
+.right{
+    padding: 40px;
+    font-size: 26px;
+}
+.healty-image{
+    border-radius: 20px;
+    float: right;
+    height: 500px;
+    width: 700px;
+    margin-left: 10px;
+}
+.icons{
+    display: flex;
+    gap:350px;
+    padding-left: 120px;
+    margin-left: 60px;
+    padding-top: 80px;
+}
+.lk{
+    font-size: 100px;
+}
+.lk:hover{
+    transform: scale(1.2);
+}
+.down{
+    background-color: black;
+    height: 400px;
+    width:100%;
+}
+.down-page{
+    display: flex;
+    gap:200px;
+    color: rgb(235, 236, 243);
+}
+.down-image{
+    height: 300px;
+    width: 300px;
+    margin-left: 30px;
+}
+.buttontwo:hover{
+    background-color:rgb(236, 22, 22);
+}
+.icon-description{
+    text-align: center;
+    padding-top: 10px;
+}
